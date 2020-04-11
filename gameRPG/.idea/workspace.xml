@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5df78c2-daf9-4dbe-9a92-a72a3862edb9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZjAYRwga7q3fWQAUBy1p10H2Sa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.main.Main" />
+      <module name="gameRPG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5df78c2-daf9-4dbe-9a92-a72a3862edb9" name="Default Changelist" comment="" />
+      <created>1585342176254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585342176254</updated>
+      <workItem from="1585342179529" duration="4736000" />
+      <workItem from="1585427078461" duration="3469000" />
+      <workItem from="1585494711973" duration="1009000" />
+      <workItem from="1585596389576" duration="1247000" />
+      <workItem from="1585695323924" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="801" y="256" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1585428708898">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="256" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1585428708898" />
+    <state width="1807" height="234" key="GridCell.Tab.0.bottom" timestamp="1585496233102">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="234" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585496233102" />
+    <state width="1807" height="234" key="GridCell.Tab.0.center" timestamp="1585496233102">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="234" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585496233102" />
+    <state width="1807" height="234" key="GridCell.Tab.0.left" timestamp="1585496233102">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="234" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585496233102" />
+    <state width="1807" height="234" key="GridCell.Tab.0.right" timestamp="1585496233102">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="234" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585496233102" />
+    <state width="1807" height="234" key="GridCell.Tab.1.bottom" timestamp="1585496233103">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="234" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585496233103" />
+    <state width="1807" height="234" key="GridCell.Tab.1.center" timestamp="1585496233103">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="234" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585496233103" />
+    <state width="1807" height="234" key="GridCell.Tab.1.left" timestamp="1585496233103">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="234" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585496233103" />
+    <state width="1807" height="234" key="GridCell.Tab.1.right" timestamp="1585496233103">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="234" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585496233103" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1585343053935">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/67.27.1853.1053@67.27.1853.1053" timestamp="1585343053935" />
+    <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1585695358552">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="154" width="1372" height="796" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1585695358552" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1585345501155">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1585345501155" />
+  </component>
+</project>
